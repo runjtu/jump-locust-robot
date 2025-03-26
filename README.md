@@ -33,4 +33,6 @@ We provide MP4 showcasing the core content and highlights of our project. U can 
 
 You can learn more about this award by following the link below.
 
+with Yajie Guan, Junhao Niu, Gangwei Zeng, Shuaiyu Zhang.
+
 http://11umic.hust.edu.cn/info/1109/1024.htm
